@@ -1,0 +1,61 @@
+.music-card {
+  padding: 20px;
+}
+.music-cover {
+  width: 100px;
+  height: 60px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 10px;
+}
+.music-card {
+  background-color: #67c0d6;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
+.list-container {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+}
+.song-name {
+  font-size: 12px;
+  font-weight: bold;
+  margin-bottom: 0px;
+  margin-bottom: 10px;
+}
+.input-search {
+  width: 220px;
+  height: 30px;
+  border-radius: 7px;
+  border: 0px solid;
+  padding: 10px;
+  outline: none;
+}
+.icon-class {
+  color: #ffffff;
+}
+.search-button {
+  margin-left: 10px;
+  height: 30px;
+  border-radius: 7px;
+  border: 0px solid;
+  background-color: #c72576;
+  color: #ffffff;
+  font-size: 12px;
+  padding: 7px;
+}
+.playlist-button {
+    margin-right: 10px;
+    height: 30px;
+    border-radius: 7px;
+    border: 0px solid;
+    background-color: #c72576;
+    color: #ffffff;
+    font-size: 12px;
+    padding: 7px;
+}

@@ -1,0 +1,10 @@
+import MusicHome from "./home";
+import "./styles.css";
+
+export default function App() {
+  return (
+    <div className="App">
+      <MusicHome/>
+    </div>
+  );
+}

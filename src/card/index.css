@@ -1,0 +1,29 @@
+.add-button {
+  margin-left: 10px;
+  height: 30px;
+  border-radius: 7px;
+  border: 0px solid;
+  background-color: #c72576;
+  color: #ffffff;
+  font-size: 10px;
+  padding: 7px;
+}
+.music-card {
+  padding: 20px;
+}
+.music-cover {
+  width: 100px;
+  height: 60px;
+  background-color: #ffffff;
+  border-radius: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  padding: 10px;
+}
+.music-card {
+  background-color: #67c0d6;
+  margin-right: 10px;
+  margin-bottom: 10px;
+}
